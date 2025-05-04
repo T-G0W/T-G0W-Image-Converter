@@ -19,8 +19,8 @@ Ein moderner und benutzerfreundlicher Bildkonverter mit GUI, entwickelt mit Pyth
 
 ## 📦 Installation
 
-1. Python 3.x installieren mit Pip
-2. Requierements installieren mit
-3. ```Python
+1. Python 3.x installieren + Pip zum installieren der Imports, falls Source Code genutzt werden soll.
+2. Requierements installieren mit:
+```Python
    pip install -r requirements.txt
 ```
