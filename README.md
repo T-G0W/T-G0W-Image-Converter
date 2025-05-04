@@ -3,6 +3,8 @@ A simple image converter for Windows with full source code, created by T-G0W. (F
 
 A modern and user-friendly image converter with a graphical interface, built using Python, Tkinter, and Pillow. Supports a wide range of image formats – perfect for converting images into your desired format quickly and easily.
 
+ⓘ It may happen that you're prompted to confirm running this software when launching the .exe file. This is because the executable is not verified. However, it is open source and completely safe.
+
 ---
 
 ## 🔧 Features
