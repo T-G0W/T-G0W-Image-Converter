@@ -1,5 +1,5 @@
 # 🖼️ T-G0W Image Converter
-A simple image converter for Windows with full source code, created by T-G0W. (Support for other optimized operating systems coming soon.)
+A simple image converter for Windows with full source code, created by T-G0W. (For Windows & MacOs / Other operating systems have not been tested.)
 
 A modern and user-friendly image converter with a graphical interface, built using Python, Tkinter, and Pillow. Supports a wide range of image formats – perfect for converting images into your desired format quickly and easily.
 
